@@ -1,4 +1,4 @@
-public Personajes{
+public class Personajes{
     
     public Personajes(){
 
